@@ -5,3 +5,17 @@ class A {
 
     }
 }
+
+
+
+
+
+
+
+
+
+class C {
+    constructor()   {
+
+    }
+}
