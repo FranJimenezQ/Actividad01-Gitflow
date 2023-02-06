@@ -5,3 +5,9 @@ class A {
 
     }
 }
+
+class B {
+    constructor()   {
+
+    }
+}
